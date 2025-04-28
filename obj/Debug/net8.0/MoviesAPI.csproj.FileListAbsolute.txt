@@ -1,0 +1,136 @@
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.exe
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.deps.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.runtimeconfig.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.pdb
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.MoviesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MoviesAPI.props
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoviesAPI.props
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoviesAPI.props
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\scopedcss\bundle\MoviesAPI.styles.css
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.Up2Date
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\refint\MoviesAPI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.pdb
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\ref\MoviesAPI.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\appsettings.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.exe
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.deps.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.runtimeconfig.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\MoviesAPI.pdb
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.AssemblyReference.cache
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.AssemblyInfoInputs.cache
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.AssemblyInfo.cs
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.CoreCompileInputs.cache
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.MoviesAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MoviesAPI.props
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MoviesAPI.props
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MoviesAPI.props
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\scopedcss\bundle\MoviesAPI.styles.css
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.csproj.Up2Date
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\refint\MoviesAPI.dll
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.pdb
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\MoviesAPI.genruntimeconfig.cache
+E:\Learn\Dot Net Course\DotNet\MoviesAPI\MoviesAPI\obj\Debug\net8.0\ref\MoviesAPI.dll
